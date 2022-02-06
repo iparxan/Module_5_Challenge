@@ -9,12 +9,12 @@ The basic requirements of this analysis is the visualization of Pyber data. We w
 
 In the first part of the project, we created summary of DataFrame in which we included Total Rides, Total Drivers, Avarege Fares by rides and Average fares by Drivers according to three city types (Urban, Suburban and Rural) as shown in teh following table.
 
-![Alt text]("../Analysis/Summary_dataFrame.png")
+![Alt text](/Analysis/Summary_dataFrame.png)
 
 
 From the table, Urban city type had high numbers of total rides, drivers and total amounts of fares followed by Suburban, then Rural which had the least amount of rides, drivers and the amount of fares. However, in terms of average fares by rides or drivers, Rural had the more significant amounts of fares compared to Urban and Suburban. As shown in figure below:
 
-![Alt text]("../Analysis/Total_fares_by_city.png")
+![Alt text](/Analysis/Total_fares_by_city.png)
 
 
 Second part of the project will create multi-line charts in which changes of fares were aganist the date that included 2019 Janruary to May. In terms of total fares, Urban was at the top, then Suburban, and then Rural which was at the bottom. This indicated that total amounts of fares were higher in Urban, since Urban ahd many rides and drivers. In terms of months, there was a big jump of fares between February and March, and interestingly at May all city types had dropped in total fares. 
