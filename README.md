@@ -9,7 +9,6 @@ The basic requirements of this analysis is the visualization of Pyber data. We w
 
 In the first part of the project, we created summary of DataFrame in which we included Total Rides, Total Drivers, Avarege Fares by rides and Average fares by Drivers according to three city types (Urban, Suburban and Rural) as shown in teh following table.
 
-
 ![Alt text]("../Analysis/Summary_dataFrame.png")
 
 
